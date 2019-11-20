@@ -1,0 +1,2 @@
+[20/Nov/2019:00:01:32 +0530] "" 10.54.23.22 407 "GET http://www.msftncsi.com/ncsi.txt HTTP/1.1" "Business" "Minimal Risk" "" 4226 150 "Microsoft NCSI" "" "81" "" 221.135.111.120
+[20/Nov/2019:00:01:32 +0530] "surakshada" 10.54.23.22 200 "GET http://www.msftncsi.com/ncsi.txt HTTP/1.1" "Business" "Minimal Risk" "text/plain" 310 211 "Microsoft NCSI" "" "0" "" 221.135.111.120
